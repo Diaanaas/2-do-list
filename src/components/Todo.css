@@ -1,0 +1,26 @@
+.card {
+  margin: 20px 0px;
+  border: 1px solid;
+  font-size: 20px;
+  width: max-content;
+  display:flex;
+  justify-content: space-between;
+  background-color: white;
+}
+
+/* Add some padding inside the card container */
+.container {
+padding: 2px 20px;
+}
+
+.deleteButton {
+  height: 50%;
+}
+.todoTitle {
+margin: 10px 5px 10px 2px;
+}
+.buttonContainer {
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
